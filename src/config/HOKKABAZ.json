@@ -1,0 +1,69 @@
+{
+  "Bot": {
+   "Bot_Token": "BOT_TOKEN",
+   "Guild_Owners": ["SUNUCU KURUCUSU VE KENDİ İD NİZİ GİRİN"],
+   "Bot_Prefix": ".",
+   "Bot_Status": "dnd-online-idle seç birisini knkm",
+   "Bot_Durum": "HOKKABAZ 💙",
+   "Bot_VoiceChannel": "",
+   "Database_Mongourl":"",
+   "Bot_Footer": "HOKKABAZ 💙 RunHeaven"
+  },
+
+  "Server": {
+   "GuildID": ""
+  },
+
+  "emoji": {
+    "loading": "<a:20210630_102018:963797001022095390>"
+  },
+
+"iliski": {
+  "Alone":"",
+  "LGBT":"",
+ "anyone":"", 
+ "Lovers":"" 
+},
+
+"katilim": {
+ "etkinlik":"",
+ "cekilis":""
+
+ },
+ "game": {
+   "gartic":"",
+   "vk":"",
+   "dc":""
+ },
+
+ "burç": {
+  "boga": "",
+  "ikizler": "",
+  "yengec": "",
+  "aslan": "",
+  "basak": "",
+  "terazi": "",
+  "koc": "",
+  "akrep": "",
+  "yay": "",
+  "oglak": "",
+  "kova": "",
+  "balık": ""
+ },
+
+
+ "color": {
+   "siyah": "",
+   "beyaz": "",
+   "kırmızı": "",
+   "yesil": "",
+   "mor": "",
+   "mavi": "",
+   "pembe": "",
+   "sarı": "", 
+   "turuncu": ""
+ }
+
+
+
+}
